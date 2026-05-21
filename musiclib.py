@@ -1,0 +1,22 @@
+music = {
+    "shape of you": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "blinding lights": "https://www.youtube.com/watch?v=4NRXx16lJio",
+    "dance monkey": "https://www.youtube.com/watch?v=q0hyYWKXF0Q&list=RDq0hyYWKXF0Q&start_radio=1",
+    "rockstar": "https://www.youtube.com/watch?v=UceaB4DrjJw",
+    "one dance": "https://www.youtube.com/watch?v=U9BwWKXjVaI",
+    "sunflower": "https://www.youtube.com/watch?v=ApXoWvfEYVU",
+    "bad guy": "https://www.youtube.com/watch?v=DyDfgMOUjCI",
+    "señorita": "https://www.youtube.com/watch?v=Pkh8UtuejGw",
+    "old town road": "https://www.youtube.com/watch?v=r7qovpFAGrQ",
+    "despacito": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+    "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+    "stressed out": "https://www.youtube.com/watch?v=pXRviuL6vK8",
+    "heathens": "https://www.youtube.com/watch?v=UprcpdwjXqQ",
+    "bad romance": "https://www.youtube.com/watch?v=qrO4YZeyl0",
+    "uptown funk": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+    "hello": "https://www.youtube.com/watch?v=YQHsXMglCw",
+    "rolling in the deep": "https://www.youtube.com/watch?v=rYEDA3w-9l8",
+    "someone like you": "https://www.youtube.com/watch?v=hLQl3WlYtV4",
+    "set fire to the rain": "https://www.youtube.com/watch?v=FlsKreK2c3Q",
+    "thinking out loud": "https://www.youtube.com/watch?v=lp-EO50yXw"
+}
